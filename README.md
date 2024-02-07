@@ -1,6 +1,5 @@
 # 1. 프로젝트 명 : 개미운동
 
-<로고자리>
 ![image](https://github.com/dydgjs200/AntWork_Backend/assets/25136172/6e9f1fa6-b3b3-4ba7-9aaa-1f98a30b6865)
 
 
