@@ -1,2 +1,2 @@
-# AntWork_Backend
-3차 프로젝트 개미운동 백엔드
+# teamprojectBteam-Back
+백엔드용
