@@ -39,12 +39,13 @@
 <div>
  <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=ec2&logoColor=white">
  <img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=s3&logoColor=white">
+ <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
+ <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"/></a> &nbsp </p>
+ <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"/></a> &nbsp </p>
 </div>
 
 - DB <br>
 <div>
  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white"> 
  <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
- <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"/></a> &nbsp </p>
 </div>
