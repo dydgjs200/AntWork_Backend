@@ -2,7 +2,9 @@
 
 # 1. Project Name : 개미운동
 <br>
+
 ![image](https://github.com/dydgjs200/AntWork_Backend/assets/25136172/6e9f1fa6-b3b3-4ba7-9aaa-1f98a30b6865)
+
 <br>
  - 정의 : 주식에 어려움을 겪는 초보자들을 위한 설명서 <br>
  - 개발기간 : 2024.01.15 ~ 2024.02.05 <br>
