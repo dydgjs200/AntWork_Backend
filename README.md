@@ -65,3 +65,9 @@
 ![image](https://github.com/dydgjs200/AntWork_Backend/assets/25136172/59e64762-a444-4ab3-9744-63d287358099)
 ![image](https://github.com/dydgjs200/AntWork_Backend/assets/25136172/f937302b-5c58-4579-b661-9a9d527925e6)
 
+<br>
+<br>
+
+# 5. ERD
+<br>
+
