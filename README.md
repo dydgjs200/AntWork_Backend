@@ -46,5 +46,5 @@
  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white"> 
  <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
- <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon%S3&logoColor=white"/></a> &nbsp </p>
+ <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"/></a> &nbsp </p>
 </div>
