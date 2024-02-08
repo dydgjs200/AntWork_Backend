@@ -1,4 +1,4 @@
-# 1. 프로젝트 명 : 개미운동
+# 1. Project Name : 개미운동
 
 ![image](https://github.com/dydgjs200/AntWork_Backend/assets/25136172/6e9f1fa6-b3b3-4ba7-9aaa-1f98a30b6865)
 
@@ -12,7 +12,7 @@
 <br>
 <br>
 
-# 2. 프로젝트의 주요 기능
+# 2. Overview
 <br>
 
 <ul>
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-# 3. 기술 스택
+# 3. Stack
 
 - language <br>
 <div>
