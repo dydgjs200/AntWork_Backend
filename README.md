@@ -69,7 +69,16 @@
 <br>
 <br>
 
-# 5. 정보
+# 5. 설치
+
+```
+git clone https://github.com/nwejin/teamprojectBteam-Back.git
+```
+
+<br>
+<br>
+
+# 6. 정보
 <br>
 
 만약 사용 중 문제발생 시, dydgjs2016@naver.com 으로 문의 바랍니다.
