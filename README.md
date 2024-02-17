@@ -70,7 +70,9 @@
 <br>
 
 # 5. 설치
+<br>
 
+- 클론 받아오기
 ```
 git clone https://github.com/nwejin/teamprojectBteam-Back.git
 ```
