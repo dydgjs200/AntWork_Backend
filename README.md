@@ -70,7 +70,7 @@
 <br>
 <br>
 
-# 5. 설치
+# 5. install
 <br>
 
 1. 클론 받아오기
@@ -91,7 +91,7 @@ npm install
 <br>
 <br>
 
-# 6. 정보
+# 6. info
 <br>
 
 만약 사용 중 문제발생 시, dydgjs2016@naver.com 으로 문의 바랍니다.
